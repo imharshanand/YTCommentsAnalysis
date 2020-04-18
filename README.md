@@ -5,8 +5,8 @@
 * import httplib2
 * import os
 * import sys
-*import csv
-*  import io
+* import csv
+* import io
 * import vaderSentiment
 * import matplotlib
 * update/import oauth2client
@@ -28,8 +28,8 @@ Download client_secrets.json<br>
      <td>Generated Pie Chart</td>
   </tr>
   <tr>
-    <td><img src="Screenshots/Script Running CMD.png" width=350></td>
-    <td><img src="Screenshots/Generated Pie Chart.png" width=350></td>
+    <td><img src="Screenshots/Script Running CMD.png" width=450></td>
+    <td><img src="Screenshots/Generated Pie Chart.png" width=450></td>
   </tr>
  </table>
  </div>
