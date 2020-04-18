@@ -26,8 +26,8 @@ Download client_secrets.json
      <td>Generated Pie Chart</td>
   </tr>
   <tr>
-    <td><img src="Screenshots/Script Running CMD.png" height=480></td>
-    <td><img src="Screenshots/Generated Pie Chart.png" height=480></td>
+    <td><img src="Screenshots/Script Running CMD.png" width=350></td>
+    <td><img src="Screenshots/Generated Pie Chart.png" width=350></td>
   </tr>
  </table>
  </div>
